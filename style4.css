@@ -4,6 +4,7 @@ ul {
     flex-wrap: wrap;
     width: 200px;
     height: 100px;
+    
 }
 
 li {
@@ -12,5 +13,6 @@ li {
     background-color: rgb(83, 83, 199);
     color: white;
     list-style: none;
+    margin-bottom: 10px;
 
 }
