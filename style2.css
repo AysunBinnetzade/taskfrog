@@ -1,0 +1,15 @@
+
+
+ul {
+    display: flex;
+    width: 500px;
+}
+
+li {
+    border: 1px solid rgb(216, 216, 244);
+    border-radius: 5px;
+list-style: none;
+padding: 10px;
+background-color: rgb(75, 75, 179);
+color: white;
+}

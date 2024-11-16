@@ -1,0 +1,16 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 100px;
+}
+
+li {
+    border: 1px solid rgb(138, 138, 165);
+    border-radius: 5px;
+    background-color: rgb(83, 83, 199);
+    color: white;
+    list-style: none;
+
+}
